@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Personal Page</title>
-    <link>http://localhost:1313/</link>
+    <link>http://royevangelista.github.io/</link>
     <description>Recent content on My Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Nov 2015 10:49:43 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://royevangelista.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>index</title>
-      <link>http://localhost:1313/</link>
+      <title>Welcome</title>
+      <link>http://royevangelista.github.io/</link>
       <pubDate>Wed, 04 Nov 2015 10:49:43 +0800</pubDate>
       
-      <guid>http://localhost:1313/</guid>
-      <description>&lt;p&gt;Hey What&amp;rsquo;s Up?&lt;/p&gt;
+      <guid>http://royevangelista.github.io/</guid>
+      <description>&lt;p&gt;Welcome!&lt;/p&gt;
 </description>
     </item>
     
